@@ -1,0 +1,8 @@
+The web is full of servers that hold data, request data, or view data. These servers talk to each other over the Internet.
+One way computers communicate is over the world wide web, an interconnected system of public web pages accessible through the Internet.
+When computers or servers try to make a request, they will do so through a router, which connects machines.
+
+
+When a user types a domain into the search bar, the computer will make a request, reaching the app server.
+Following that, the app code will execute and start to run the page; the page will then receive the HTML code and begin to run that.
+Once the HTML finishes running, the page will start to render in the users' browser. 
